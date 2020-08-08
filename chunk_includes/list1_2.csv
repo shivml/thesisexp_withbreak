@@ -1,0 +1,41 @@
+item,expSet,grammaticallyCorrect,condition,socStat,context,word1,word2,word3,word4,word5,list,stimuli
+21,WP2,yes,g,low,Der Gaffer stre&szlig;te das Gesocks:,Der,Marktschreier,wurmte,den,Obsth&auml;ndler.,1,Critical
+22,WP2,no,j,high,Der Adlige schilderte eine befremdliche Begebenheit:,Der,Gastwirt,schmieren,den,Winzer.,1,Critical
+23,WP2,yes,i,high,Der Dirigent raunte w&auml;hrend der Darbietung:,Der,Geiger,knuffte,den,S&auml;nger.,1,Critical
+24,WP2,no,h,high,Die Hausherren priesen die Novit&auml;t:,Der,G&auml;rtner,bet&ouml;ren,den,Pf&ouml;rtner.,1,Critical
+25,WP2,yes,g,high,Der Publizist korrespondierte &uuml;ber das E&szlig;ay:,Der,Kunstreiter,inspizierte,den,Ringk&auml;mpfer.,1,Critical
+26,WP2,no,j,low,Der Handlanger steckte den l&auml;stigen Gaffern:,Der,Rocks&auml;nger,bereden,den,Schlagzeuger.,1,Critical
+27,WP2,yes,i,low,Die Landratten quatschten mit dem Seeb&auml;ren:,Der,Kapit&auml;n,veralberte,den,General.,1,Critical
+28,WP2,no,h,low,Die Alten verklickerten dem Knirps:,Der,Bruder,beschwindeln,den,Vetter.,1,Critical
+29,WP2,yes,g,low,Die Tratschtante petzte bei der Nachbarin:,Der,Nachtportier,kniff,den,Landstreicher.,1,Critical
+30,WP2,no,j,high,Der Gesetzesh&uuml;ter protokollierte eine Fehde:,Der,Verbrecher,bem&auml;keln,den,Kontaktmann.,1,Critical
+31,WP2,yes,i,high,Der Theaterdirektor pr&auml;zisierte in den Memoiren:,Der,Bengel,ver&auml;ppelte,den,Flegel.,1,Critical
+32,WP2,no,h,high,Der Profe&szlig;orenrat debattierte &uuml;ber den Zwist:,Der,Rektor,fixieren,den,Sch&uuml;ler.,1,Critical
+33,WP2,yes,g,high,Die Repr&auml;sentanten verifizierten den Eklat:,Der,S&auml;ufer,peinigte,den,Rowdy.,1,Critical
+34,WP2,no,j,low,Der Dorfler schnatterte den Knaller:,Der,Raufbold,pr&uuml;geln,den,H&auml;ftling.,1,Critical
+35,WP2,yes,i,low,Der Paparazzo faselte die kra&szlig;en News:,Der,Radprofi,marterte,den,Rennfahrer.,1,Critical
+36,WP2,no,h,low,Die Kammerm&auml;dchen pfuschten auf dem Schmierzettel:,Der,Edelmann,prellen,den,Hofmaler.,1,Critical
+37,WP2,yes,g,low,Die Sekret&auml;rin klatschte &uuml;ber den Go&szlig;ip:,Der,Dekan,verteufelte,den,Kanzler.,1,Critical
+38,WP2,no,j,high,Die Polizeidirektorin avisierte die Rivalit&auml;t:,Der,Gendarm,schnappen,den,R&auml;uber.,1,Critical
+39,WP2,yes,i,high,Das Konsulat &uuml;berlieferte den Rapport:,Der,Fremdenf&uuml;hrer,bluffte,den,Gro&szlig;wildj&auml;ger.,1,Critical
+40,WP2,no,h,high,Die Richter urteilten souver&auml;n:,Der,Barkeeper,r&uuml;gen,den,Weinkenner.,1,Critical
+1,WP1,yes,c,high,Elegant angezogen spricht Peter:,Ich,binde,gleich,meine,Schuhe.,1,Filler
+1,WP1,no,f,low,Sauber zurechtgemacht labert Peter:,Ich,binde,gleich,meine,Klamotten.,1,Filler
+3,WP1,no,e,high,Modern ausgerichtet spricht Felix:,Ich,saniere,bald,meine,Ohren.,1,Filler
+3,WP1,yes,d,low,Schlampig eingestellt labert Felix.,Ich,saniere,bald,meine,Behausung.,1,Filler
+5,WP1,yes,c,high,H&ouml;chst strebsam verlautbart Moritz:,Ich,renoviere,sp&auml;ter,meine,Gem&auml;cher.,1,Filler
+5,WP1,no,f,low,Stark unter Dampf tr&ouml;tet Moritz:,Ich,renoviere,sp&auml;ter,meine,P&ouml;tte.,1,Filler
+7,WP1,no,e,high,Wohlgemut gesinnt proklamiert Dennis:,Ich,fahre,jetzt,mein,Gem&uuml;se.,1,Filler
+7,WP1,yes,d,low,Quietschfidel gelaunt twittert Dennis:,Ich,fahre,jetzt,mein,Stahlross.,1,Filler
+9,WP1,yes,c,high,Verm&ouml;gend situiert avisiert Paula:,Ich,verschrotte,bald,meine,Autos.,1,Filler
+9,WP1,no,f,low,Massig betucht schwafelt Paula:,Ich,verschrotte,bald,meine,Stelzen.,1,Filler
+11,WP1,no,e,high,Dienlich geschult kommentiert Daniel:,Ich,b&uuml;gel,gleich,meine,Pferde.,1,Filler
+11,WP1,yes,d,low,Patent trainiert verklickert Daniel:,Ich,b&uuml;gel,gleich,meine,Buxen.,1,Filler
+13,WP1,yes,c,high,Au&szlig;erordentlich pr&auml;pariert formuliert Maria:,Ich,schmiere,sp&auml;ter,meine,Butterbrote.,1,Filler
+13,WP1,no,f,low,Astrein hergerichtet plappert Maria:,Ich,schmiere,sp&auml;ter,meine,Klauen.,1,Filler
+15,WP1,no,e,high,Feinsinnig veranlagt verk&uuml;ndet Robert:,Ich,spare,jetzt,mein,Essen.,1,Filler
+15,WP1,yes,d,low,Helle gestrickt t&ouml;nt Robert:,Ich,spare,jetzt,mein,Moos.,1,Filler
+17,WP1,yes,c,high,Penibelst disponiert propagiert Tobias:,Ich,putze,gleich,mein,WC.,1,Filler
+17,WP1,no,f,low,Pingelig getrimmt schwafelt Tobias:,Ich,putze,gleich,mein,Vieh.,1,Filler
+19,WP1,no,e,high,Regsam engagiert renommiert Lukas:,Ich,unterschreibe,jetzt,meinen,Champagner.,1,Filler
+19,WP1,yes,d,low,Aktiv mit dabei protzt Lukas:,Ich,unterschreibe,jetzt,meinen,Wisch.,1,Filler
